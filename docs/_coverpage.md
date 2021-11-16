@@ -1,4 +1,5 @@
-![](_media/logo.svg)
+![](_media/3d-architecture.svg)
 # 今天，你学习了吗？？？
-[README](/README)
-[Shall we begin ?](/Home)
+[关于我...](/README)
+[开始学习](/Home)
+
