@@ -1,4 +1,5 @@
 <!-- markdownlint-disable single-title no-duplicate-heading -->
+
 # Markdown
 
 ## Headings
@@ -294,7 +295,7 @@ console.log(total); // 3
 ````markdown
 This is `inline code`
 
-```javascript
+​```javascript
 const add   = (num1, num2) => num1 + num2;
 const total = add(1, 2);
 
@@ -324,7 +325,7 @@ force the content to wrap and span multiple lines.
 
 #### **Markdown**
 
-```markdown
+​```markdown
 !> **Important** notice with `inline code` and additional placeholder text used
 to force the content to wrap and span multiple lines.
 
