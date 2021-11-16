@@ -1,4 +1,4 @@
-![](_media/3d-architecture.svg)
-# awesome-architect
+![](_media/logo.svg)
+# 今天，你学习了吗？？？
 [README](/README)
 [Shall we begin ?](/Home)
